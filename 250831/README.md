@@ -6,10 +6,11 @@ MAC 주소
 
 수신기(WTGT) - 0xEC,0xE3,0x34,0x1A,0xA5,0x78
 
-마지막 업데이트 코드
+*** Last Updated Code ***
 
 1208_update_new_controller.c (송신기) -> 1204_update_new_controller.c도 사용 가능
 
 1204_update_new_motor.c (수신기)
+
 
 
