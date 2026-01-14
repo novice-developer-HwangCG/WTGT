@@ -1,19 +1,30 @@
 WTGT 본체 PCB 추가
 
 모터 MS-BL7045W-G1
+
 모터드라이버 BLC-151
 
 소유중 송신기 사양
+
 Chip type:          ESP32-D0WDQ6 (revision v1.1)
+
 Features:           Wi-Fi, BT, Dual Core + LP Core, 240MHz, Vref calibration in eFuse, Coding Scheme None
+
 Crystal frequency:  40MHz
-MAC:                94:54:c5:b5:d3:00
+
+MAC:                --:--:--:--:--:--
+
 
 소유중 수신기 사양
+
 Chip type:          ESP32-D0WD-V3 (revision v3.1)
+
 Features:           Wi-Fi, BT, Dual Core + LP Core, 240MHz, Vref calibration in eFuse, Coding Scheme None
+
 Crystal frequency:  40MHz
-MAC:                ec:e3:34:1b:61:d8
+
+MAC:                --:--:--:--:--:--
+
 
 <--- ESP32 (기판) --->
 1. Vcc / GND (3pin)
@@ -89,4 +100,5 @@ MAC:                ec:e3:34:1b:61:d8
  - LED_D = gpio22
  * 각 저항 1k
  * 기판 기구부 고려 작업
+
 
